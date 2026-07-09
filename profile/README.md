@@ -1,43 +1,51 @@
 <p align="center">
-  <img src="lockup.png" width="420"/>
+  <img src="lockup.svg" width="100%"/>
 </p>
 
----
+<br/>
 
-## Experimental Cardiology & Translational Research
+## About Us
 
-We are a dynamic research group at **Universitätsklinikum Augsburg** (University Hospital Augsburg), dedicated to advancing the understanding of cardiovascular disease and translating scientific discoveries into tangible benefits for patients.
-
-Our work bridges experimental biology and clinical practice, with a focus on uncovering the mechanisms underlying cardiovascular events and developing innovative therapeutic strategies.
+We are a dynamic research group at **Universitätsklinikum Augsburg** (University Hospital Augsburg), dedicated to advancing the understanding of cardiovascular disease and translating scientific discoveries into tangible benefits for patients. We bridge experimental biology and clinical practice — combining international collaborations, modern research methods, and cross-disciplinary innovation to improve cardiovascular health globally.
 
 ---
 
 ## Research Focus
 
-**Thrombosis & Antithrombotic Therapies**
-We investigate the molecular mechanisms of thrombosis and develop novel antithrombotic approaches, aiming to identify therapeutic targets for the prevention and treatment of cardiovascular events.
+### 🩸 Thrombosis & Antithrombotic Therapies
+Investigating the molecular mechanisms of thrombosis and developing novel antithrombotic strategies to identify therapeutic targets for the prevention and treatment of cardiovascular events.
 
-**Thromboimmune Phenotyping**
-We explore the complex interplay between platelets and the immune system — examining how thrombotic and immune processes interact in cardiovascular disease to uncover new biomarkers and personalised treatment strategies.
+### 🔬 Thromboimmune Phenotyping
+Exploring the complex interplay between platelets and the immune system — how thrombotic and immune processes interact in cardiovascular disease — to uncover new biomarkers and enable personalised treatment strategies.
 
-**Interventional Cardiology**
-We study innovative techniques and devices to improve outcomes in acute coronary syndromes and other cardiovascular conditions through minimally invasive procedures.
+### 🫀 Interventional Cardiology
+Studying innovative techniques and devices to improve outcomes in acute coronary syndromes and other cardiovascular conditions through minimally invasive procedures.
 
-**Digital Medicine**
+### 📱 Digital Medicine
 From mobile health applications to remote patient monitoring, we investigate how digital technologies can transform patient care and disease management in cardiology.
 
-**AI Unit in Cardiology**
-In collaboration with the Chair of Diagnostic Sensing (Prof. Zaunseder), our AI unit develops machine learning approaches to refine diagnostic workflows, enable personalised treatment, and advance precision medicine in cardiovascular care.
+### 🤖 AI Unit in Cardiology
+In collaboration with the Chair of Diagnostic Sensing (Prof. Zaunseder), our AI unit applies machine learning to refine diagnostic workflows, enable personalised treatment, and advance precision medicine in cardiovascular care through an open innovation platform.
 
 ---
 
 ## Team
 
 **Principal Investigator**
-Prof. Dr. med. Dario Bongiovanni, PhD
+
+[Prof. Dr. med. Dario Bongiovanni, PhD](https://www.bongiovannilab.com)
 
 **Members**
-Dr. Olena Babyak · Dr. Kilian Kirmes · Dr. Pierre Aublin · Dr. med. Stephanie Kühne · Leonora Raka · Nazanin Anbarestani · Farnoosh Solati
+
+| Name | Role |
+|------|------|
+| Dr. Olena Babyak | Researcher |
+| Dr. Kilian Kirmes | Researcher |
+| Dr. Pierre Aublin | Researcher |
+| Dr. med. Stephanie Kühne | Researcher |
+| Leonora Raka | Researcher |
+| Nazanin Anbarestani | Researcher |
+| Farnoosh Solati | Researcher |
 
 ---
 

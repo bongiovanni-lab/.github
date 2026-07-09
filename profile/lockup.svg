@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 200" width="560" height="200">
+  
+  <g transform="translate(24,40) scale(1.818)">
+    <g style="isolation:isolate;">
+      <circle cx="20" cy="34" r="20" fill="#C6303A" style="mix-blend-mode:multiply;"></circle>
+      <circle cx="43" cy="20" r="20" fill="#C6303A" style="mix-blend-mode:multiply;"></circle>
+      <circle cx="42" cy="46" r="20" fill="#C6303A" style="mix-blend-mode:multiply;"></circle>
+    </g>
+    <g transform="translate(16,15) scale(0.85,0.9)">
+      <path d="M3 20 H13 L17 11 L23 29 L27 20 H37" fill="none" stroke="#faf8f4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+  </g>
+  <text class="wm" x="188" y="98">Bongiovanni</text>
+  <text class="wm" x="188" y="156">Lab</text>
+</svg>
