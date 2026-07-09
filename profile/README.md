@@ -37,12 +37,12 @@ Prof. Dr. med. Dario Bongiovanni, PhD
 
 **Members**
 
-Dr. Olena Babyak
-Dr. Kilian Kirmes
-Dr. Pierre Aublin
-Dr. med. Stephanie Kühne
-Leonora Raka
-Nazanin Anbarestani
+Dr. Olena Babyak<br/>
+Dr. Kilian Kirmes<br/>
+Dr. Pierre Aublin<br/>
+Dr. med. Stephanie Kühne<br/>
+Leonora Raka<br/>
+Nazanin Anbarestani<br/>
 Farnoosh Solati
 
 ---
